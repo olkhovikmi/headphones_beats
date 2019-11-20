@@ -1,0 +1,7 @@
+.img, .beats {
+	display: inline-block;
+}
+
+.beats{
+	width: 395px;
+}
